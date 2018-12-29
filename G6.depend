@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+1532421682 source:c:\users\alex\code\g6\main.cpp
+	<windows.h>
+	<locale.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<ctime>
+	"render.h"
+	"cursor.h"
+	"virus.h"
+	"room.h"
+
+1532361599 c:\users\alex\code\g6\render.h
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	"colors.h"
+
+1494956755 c:\users\alex\code\g6\colors.h
+	<stdio.h>
+
+1501599611 c:\users\alex\code\g6\cursor.h
+	<conio.h>
+	"render.h"
+
+1532421654 c:\users\alex\code\g6\room.h
+
+1532422460 c:\users\alex\code\g6\virus.h
+	"render.h"
+
+1532422454 source:c:\users\alex\code\g6\virus.cpp
+
+1533718507 source:c:\users\alex\code\g6 - копия\main.cpp
+	<windows.h>
+	<clocale>
+	"room.h"
+	"truck.h"
+	"post.h"
+	"city.h"
+	"defend.h"
+	"sub.h"
+
+1532606048 c:\users\alex\code\g6 - копия\render.h
+	<windows.h>
+	<stdio.h>
+	"colors.h"
+
+1532438811 c:\users\alex\code\g6 - копия\colors.h
+
+1501599611 c:\users\alex\code\g6 - копия\cursor.h
+	<conio.h>
+	"render.h"
+
+1533666220 c:\users\alex\code\g6 - копия\virus.h
+	<conio.h>
+	"render.h"
+
+1532872723 c:\users\alex\code\g6 - копия\room.h
+	"render.h"
+	"virus.h"
+
+1533718493 source:c:\users\alex\code\g6 - копия\virus.cpp
+	"virus.h"
+	<ctime>
+
+1532452895 source:c:\users\alex\code\g6 - копия\room.cpp
+	"room.h"
+
+1532439449 c:\users\alex\code\g6 - копия\heads.h
+	<windows.h>
+	<locale.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<ctime>
+	"colors.h"
+
+1532452510 c:\users\alex\code\g6 - копия\truck.h
+	"render.h"
+	"virus.h"
+	"room.h"
+
+1532524332 c:\users\alex\code\g6 - копия\post.h
+	<ctime>
+	"render.h"
+	"virus.h"
+	"room.h"
+
+1532446398 c:\users\alex\code\g6 - копия\sub.h
+	"render.h"
+	"virus.h"
+	"room.h"
+
+1533718469 source:c:\users\alex\code\g6 - копия\post.cpp
+	"POST.h"
+
+1532877144 source:c:\users\alex\code\g6 - копия\truck.cpp
+	"truck.h"
+
+1532875767 source:c:\users\alex\code\g6 - копия\sub.cpp
+	"sub.h"
+
+1532606117 source:c:\users\alex\code\g6 - копия\render.cpp
+	"render.h"
+
+1533718396 source:c:\users\alex\code\g6 - копия\city.cpp
+	"city.h"
+	<ctime>
+	<locale>
+
+1532675757 c:\users\alex\code\g6 - копия\city.h
+	"render.h"
+	"virus.h"
+	"room.h"
+
+1532751017 c:\users\alex\code\g6 - копия\defend.h
+	"render.h"
+	"virus.h"
+	"room.h"
+
+1533718430 source:c:\users\alex\code\g6 - копия\defend.cpp
+	"DEFEND.h"
+	<ctime>
+	<locale>
+
+1532606117 source:d:\downloads\the history of one virus (ugdc 155)\the history of one virus (ugdc 155)\the history of one virus\sources\render.cpp
+	"render.h"
+
+1532606048 d:\downloads\the history of one virus (ugdc 155)\the history of one virus (ugdc 155)\the history of one virus\sources\render.h
+	<windows.h>
+	<stdio.h>
+	"colors.h"
+
+1532438811 d:\downloads\the history of one virus (ugdc 155)\the history of one virus (ugdc 155)\the history of one virus\sources\colors.h
+
+1532452895 source:d:\downloads\the history of one virus (ugdc 155)\the history of one virus (ugdc 155)\the history of one virus\sources\room.cpp
+	"room.h"
+
+1532872723 d:\downloads\the history of one virus (ugdc 155)\the history of one virus (ugdc 155)\the history of one virus\sources\room.h
+	"render.h"
+	"virus.h"
+
+1533666220 d:\downloads\the history of one virus (ugdc 155)\the history of one virus (ugdc 155)\the history of one virus\sources\virus.h
+	<conio.h>
+	"render.h"
+
